@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itssubhamroy23
+- 👋 Hi, I’m Subham Roy
 - 👀 I’m interested in Coding and Development 
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on open source projects
