@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itssubhamroy23
 - 👀 I’m interested in Coding and Development 
-- 🌱 I’m currently learning Cyber Security and Web development
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... You can contact me on itssubhamroy@gmail.com
 
